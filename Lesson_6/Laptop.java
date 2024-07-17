@@ -67,7 +67,4 @@ public class Laptop {
                 ", price=" + price +
                 '}';
     }
-
-
-    // Весь код класса Laptop
 }
