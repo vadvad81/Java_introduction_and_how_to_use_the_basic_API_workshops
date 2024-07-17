@@ -1,16 +1,7 @@
 import java.util.*;
 
-/**
- * Главный класс программы.
- */
 public class Main {
-    // Весь код класса Main
 
-    /**
-     * Главный метод программы.
-     *
-     * @param args Аргументы командной строки.
-     */
     public static void main(String[] args) {
         LaptopStore store = new LaptopStore();
         store.generateLaptops(100);
